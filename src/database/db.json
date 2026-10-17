@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 2500,
+    "stock": 20,
+    "brand": "Sony"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 4500,
+    "stock": 15,
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "price": 3200,
+    "stock": 12,
+    "brand": "Nike"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Computer Accessories",
+    "price": 3800,
+    "stock": 10,
+    "brand": "Redragon"
+  },
+  {
+    "id": 5,
+    "name": "USB-C Charger",
+    "category": "Electronics",
+    "price": 1200,
+    "stock": 30,
+    "brand": "Anker"
+  },
+  {
+    "id": 6,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 1800,
+    "stock": 25,
+    "brand": "American Tourister"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Mouse",
+    "category": "Computer Accessories",
+    "price": 1500,
+    "stock": 18,
+    "brand": "Logitech"
+  },
+  {
+    "id": 8,
+    "name": "Water Bottle",
+    "category": "Lifestyle",
+    "price": 500,
+    "stock": 40,
+    "brand": "Milton"
+  },
+  {
+    "id": 9,
+    "name": "iPhone 16",
+    "category": "Smartphones",
+    "price": 95000,
+    "stock": 8,
+    "brand": "Apple"
+  },
+  {
+    "id": 10,
+    "name": "Galaxy S25",
+    "category": "Smartphones",
+    "price": 85000,
+    "stock": 10,
+    "brand": "Samsung"
+  },
+  {
+    "id": 11,
+    "name": "MacBook Air M4",
+    "category": "Laptops",
+    "price": 145000,
+    "stock": 5,
+    "brand": "Apple"
+  },
+  {
+    "id": 12,
+    "name": "Gaming Laptop",
+    "category": "Laptops",
+    "price": 120000,
+    "stock": 7,
+    "brand": "MSI"
+  },
+  {
+    "id": 13,
+    "name": "27-inch Monitor",
+    "category": "Computer Accessories",
+    "price": 28000,
+    "stock": 9,
+    "brand": "LG"
+  },
+  {
+    "id": 14,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 2200,
+    "stock": 16,
+    "brand": "JBL"
+  },
+  {
+    "id": 15,
+    "name": "Power Bank",
+    "category": "Electronics",
+    "price": 1800,
+    "stock": 22,
+    "brand": "Anker"
+  },
+  {
+    "id": 16,
+    "name": "Cotton T-Shirt",
+    "category": "Fashion",
+    "price": 650,
+    "stock": 50,
+    "brand": "Yellow"
+  },
+  {
+    "id": 17,
+    "name": "Denim Jeans",
+    "category": "Fashion",
+    "price": 1600,
+    "stock": 28,
+    "brand": "Levis"
+  },
+  {
+    "id": 18,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 900,
+    "stock": 32,
+    "brand": "WildHorn"
+  },
+  {
+    "id": 19,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 1200,
+    "stock": 19,
+    "brand": "Ray-Ban"
+  },
+  {
+    "id": 20,
+    "name": "Wrist Watch",
+    "category": "Accessories",
+    "price": 3500,
+    "stock": 11,
+    "brand": "Casio"
+  }
+]
