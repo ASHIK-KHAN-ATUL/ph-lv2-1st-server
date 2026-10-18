@@ -15,6 +15,6 @@ export const readProduct = () => {
 }
 
 export const insertProduct = (payload: any) => {
-    console.log(payload)
-    fs.writeFileSync(filePath, payload)
+    console.log(JSON.stringify(payload))
+    fs.writeFileSync(filePath, JSON.stringify(payload))
 }

@@ -50,7 +50,7 @@ export const productController = async(req: IncomingMessage, res: ServerResponse
 
         products.push(newProduct);
         // console.log(products);
-        insertProduct(newProduct)
+        insertProduct(products)
         
         res.writeHead(200, { "Content-type": "application/json" });
         res.end(JSON.stringify({
