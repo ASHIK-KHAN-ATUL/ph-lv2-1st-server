@@ -46,5 +46,37 @@
     "price": 6500,
     "stock": 11,
     "brand": "Samsung"
+  },
+  {
+    "id": 1,
+    "name": " Wireless Headphones",
+    "category": "Electronics",
+    "price": 500,
+    "stock": 15,
+    "brand": "Sony"
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 100,
+    "stock": 10,
+    "brand": "Sony"
+  },
+  {
+    "id": 3,
+    "name": "Samsung A57",
+    "category": "Phone",
+    "price": 55000,
+    "stock": 21,
+    "brand": "Samsung"
+  },
+  {
+    "id": 4,
+    "name": "Samsung A56",
+    "category": "Phone",
+    "price": 53000,
+    "stock": 35,
+    "brand": "Samsung"
   }
 ]
