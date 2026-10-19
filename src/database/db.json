@@ -1,21 +1,5 @@
 [
   {
-    "id": 1792343129530,
-    "name": "Sony Wireless Headphones",
-    "category": "Electronics",
-    "price": 4500,
-    "stock": 15,
-    "brand": "Sony"
-  },
-  {
-    "id": 1792343129531,
-    "name": "Samsung Galaxy Watch",
-    "category": "Accessories",
-    "price": 6500,
-    "stock": 11,
-    "brand": "Samsung"
-  },
-  {
     "id": 1792343129532,
     "name": "Logitech Wireless Mouse",
     "category": "Accessories",
@@ -69,14 +53,6 @@
     "category": "Phone",
     "price": 55000,
     "stock": 21,
-    "brand": "Samsung"
-  },
-  {
-    "id": 4,
-    "name": "Samsung A56",
-    "category": "Phone",
-    "price": 53000,
-    "stock": 35,
     "brand": "Samsung"
   }
 ]
